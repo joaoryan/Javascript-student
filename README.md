@@ -1,2 +1,2 @@
-# Javascript-student-
+# Javascript-student
 Estudos de Javascript
